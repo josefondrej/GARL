@@ -1,0 +1,14 @@
+torch
+matplotlib
+numpy
+tqdm
+torch_geometric
+gym
+pandas
+scikit-learn
+ray
+yfinance
+gymnasium
+dm_tree
+tabulate
+opencv-python
